@@ -1,4 +1,4 @@
-# ui-components
+# Vue - Nuxt POC
 
 > My perfect Nuxt.js project
 
